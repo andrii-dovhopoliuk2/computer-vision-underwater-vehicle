@@ -17,7 +17,7 @@
    ```
 2. Створіть віртуальне середовище:
    ```bash
-   python -m venv venv
+   python3 -m venv venv
    ```
 3. Активуйте його (Mac/Linux):
    ```bash
